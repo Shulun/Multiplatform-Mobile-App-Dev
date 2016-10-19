@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Paul/Documents/Coursera/MM AppDev/Ionic/conFusion/platforms/android/platform_www/plugins/ionic-plugin-keyboard/www/android/keyboard.js",
+        "C:/Users/Paul/Documents/Coursera/MM AppDev/conFusion/gulpfile.js",
+        "C:/Users/Paul/Documents/Coursera/MM AppDev/Ionic/conFusion/platforms/android/cordova/lib/AndroidProject.js",
+        "C:/Users/Paul/Documents/Coursera/MM AppDev/Ionic/conFusion/www/js/app.js"
+    ]
+}

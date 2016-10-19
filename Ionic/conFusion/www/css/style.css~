@@ -1,0 +1,4 @@
+/* Empty. Add your own CSS if you like */
+.tab-item.tab-item-active, .tab-item.active, .tab-item.activated {
+    opacity: 1;
+}
