@@ -1,3 +1,3 @@
 # Multiplatform-Mobile-App-Dev
 
-A website and mobile application designed for a restaurant. 
+A website and corresponding mobile application designed for a restaurant. 
